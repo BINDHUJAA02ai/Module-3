@@ -10,7 +10,7 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-``
+```
 items=[153,147,124,102]
 print("The sum of the items in the list is ", sum(items))
 ```
